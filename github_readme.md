@@ -234,13 +234,6 @@ Contributions are welcome! Feel free to:
 
 This project is open source and available under the MIT License.
 
-## Contact
-
-**Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## Acknowledgments
 
 - Inspired by real-world e-commerce data analysis scenarios
@@ -251,6 +244,3 @@ This project is open source and available under the MIT License.
 
 ⭐ If you found this project helpful, please give it a star!
 
-## Questions or Feedback?
-
-Feel free to open an issue or reach out if you have any questions or suggestions for improvement!
