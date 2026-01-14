@@ -1,0 +1,121 @@
+order_id,order_date,ship_date,customer_id,customer_name,segment,country,city,state,region,product_id,category,sub_category,product_name,sales,quantity,discount,profit
+1001,2023-01-03,2023-01-06,10001,John Smith,Consumer,United States,New York,New York,East,TECH-001,Technology,Phones,Samsung Galaxy S23,899.99,1,0.10,180.00
+1002,2023-01-05,2023-01-08,10002,Sarah Johnson,Corporate,United States,Los Angeles,California,West,FURN-045,Furniture,Chairs,Executive Leather Chair,450.00,2,0.15,90.00
+1003,2023-01-07,2023-01-10,10003,Michael Brown,Home Office,United States,Chicago,Illinois,Central,OFF-112,Office Supplies,Paper,HP Premium Paper,25.99,5,0.00,8.00
+1004,2023-01-10,2023-01-13,10004,Emily Davis,Consumer,United States,Houston,Texas,Central,TECH-078,Technology,Accessories,Logitech Wireless Mouse,35.99,3,0.05,10.00
+1005,2023-01-12,2023-01-15,10001,John Smith,Consumer,United States,New York,New York,East,FURN-023,Furniture,Tables,Glass Coffee Table,299.99,1,0.20,45.00
+1006,2023-01-15,2023-01-18,10005,Robert Wilson,Corporate,United States,Phoenix,Arizona,West,TECH-145,Technology,Computers,Dell XPS 15 Laptop,1599.99,1,0.08,280.00
+1007,2023-01-18,2023-01-21,10006,Jennifer Garcia,Home Office,United States,Philadelphia,Pennsylvania,East,OFF-089,Office Supplies,Storage,Metal Filing Cabinet,189.99,2,0.10,45.00
+1008,2023-01-20,2023-01-23,10007,David Martinez,Consumer,United States,San Antonio,Texas,Central,TECH-234,Technology,Phones,iPhone 14 Pro,1099.99,1,0.05,200.00
+1009,2023-01-22,2023-01-25,10008,Lisa Anderson,Consumer,United States,San Diego,California,West,FURN-156,Furniture,Furnishings,Area Rug 8x10,249.99,1,0.25,30.00
+1010,2023-01-25,2023-01-28,10009,James Taylor,Corporate,United States,Dallas,Texas,Central,OFF-201,Office Supplies,Binders,Wilson Jones Binders,45.99,10,0.00,15.00
+1011,2023-02-01,2023-02-04,10010,Mary Thomas,Home Office,United States,San Jose,California,West,TECH-098,Technology,Accessories,USB-C Hub Adapter,49.99,2,0.15,12.00
+1012,2023-02-03,2023-02-06,10002,Sarah Johnson,Corporate,United States,Los Angeles,California,West,FURN-234,Furniture,Chairs,Mesh Office Chair,325.00,3,0.20,60.00
+1013,2023-02-05,2023-02-08,10011,Christopher Lee,Consumer,United States,Austin,Texas,Central,TECH-187,Technology,Computers,HP Pavilion Desktop,899.99,1,0.10,150.00
+1014,2023-02-08,2023-02-11,10012,Patricia White,Consumer,United States,Jacksonville,Florida,South,OFF-145,Office Supplies,Paper,Hammermill Copy Paper,35.99,8,0.05,12.00
+1015,2023-02-10,2023-02-13,10013,Daniel Harris,Home Office,United States,Columbus,Ohio,Central,FURN-089,Furniture,Tables,Standing Desk,549.99,1,0.12,95.00
+1016,2023-02-12,2023-02-15,10014,Nancy Clark,Corporate,United States,Charlotte,North Carolina,South,TECH-267,Technology,Phones,Google Pixel 7,699.99,2,0.08,180.00
+1017,2023-02-15,2023-02-18,10001,John Smith,Consumer,United States,New York,New York,East,OFF-234,Office Supplies,Storage,Plastic Storage Bins,29.99,5,0.10,8.00
+1018,2023-02-18,2023-02-21,10015,Mark Rodriguez,Consumer,United States,Seattle,Washington,West,TECH-301,Technology,Accessories,Wireless Keyboard,79.99,2,0.15,18.00
+1019,2023-02-20,2023-02-23,10016,Linda Martinez,Home Office,United States,Denver,Colorado,West,FURN-178,Furniture,Furnishings,Desk Lamp LED,45.99,3,0.05,12.00
+1020,2023-02-22,2023-02-25,10017,Steven Moore,Corporate,United States,Boston,Massachusetts,East,OFF-312,Office Supplies,Binders,Staples Heavy Duty,55.99,6,0.00,20.00
+1021,2023-03-01,2023-03-04,10018,Betty Jackson,Consumer,United States,Nashville,Tennessee,South,TECH-412,Technology,Computers,MacBook Air M2,1299.99,1,0.06,220.00
+1022,2023-03-03,2023-03-06,10019,Edward Thompson,Consumer,United States,Portland,Oregon,West,FURN-245,Furniture,Chairs,Gaming Chair RGB,399.99,1,0.18,60.00
+1023,2023-03-05,2023-03-08,10020,Margaret Young,Home Office,United States,Las Vegas,Nevada,West,OFF-401,Office Supplies,Paper,Cardstock Variety Pack,19.99,10,0.10,5.00
+1024,2023-03-08,2023-03-11,10003,Michael Brown,Home Office,United States,Chicago,Illinois,Central,TECH-523,Technology,Accessories,Webcam 4K,129.99,1,0.12,30.00
+1025,2023-03-10,2023-03-13,10021,Paul Allen,Corporate,United States,Detroit,Michigan,Central,FURN-312,Furniture,Tables,Conference Table,1299.99,1,0.15,180.00
+1026,2023-03-12,2023-03-15,10022,Sandra King,Consumer,United States,Memphis,Tennessee,South,OFF-489,Office Supplies,Storage,Rolling Cart,89.99,2,0.08,22.00
+1027,2023-03-15,2023-03-18,10023,Brian Scott,Consumer,United States,Louisville,Kentucky,South,TECH-634,Technology,Phones,OnePlus 11,799.99,1,0.10,140.00
+1028,2023-03-18,2023-03-21,10024,Dorothy Green,Home Office,United States,Baltimore,Maryland,East,FURN-423,Furniture,Furnishings,Bookshelf White,159.99,1,0.20,25.00
+1029,2023-03-20,2023-03-23,10025,Kenneth Baker,Corporate,United States,Milwaukee,Wisconsin,Central,OFF-567,Office Supplies,Binders,Avery Binder Set,39.99,8,0.05,15.00
+1030,2023-03-22,2023-03-25,10026,Carol Adams,Consumer,United States,Albuquerque,New Mexico,West,TECH-745,Technology,Computers,ASUS Gaming Laptop,1899.99,1,0.08,320.00
+1031,2023-04-01,2023-04-04,10027,George Nelson,Consumer,United States,Tucson,Arizona,West,FURN-534,Furniture,Chairs,Ergonomic Stool,179.99,2,0.15,35.00
+1032,2023-04-03,2023-04-06,10028,Karen Hill,Home Office,United States,Fresno,California,West,OFF-678,Office Supplies,Paper,Resume Paper Ivory,24.99,5,0.10,8.00
+1033,2023-04-05,2023-04-08,10029,Joseph Wright,Consumer,United States,Mesa,Arizona,West,TECH-856,Technology,Accessories,Portable SSD 1TB,149.99,1,0.12,35.00
+1034,2023-04-08,2023-04-11,10030,Laura Lopez,Corporate,United States,Atlanta,Georgia,South,FURN-645,Furniture,Tables,L-Shaped Desk,699.99,1,0.10,120.00
+1035,2023-04-10,2023-04-13,10004,Emily Davis,Consumer,United States,Houston,Texas,Central,OFF-789,Office Supplies,Storage,Magazine Holder,15.99,10,0.05,5.00
+1036,2023-04-12,2023-04-15,10031,Thomas Gonzalez,Consumer,United States,Kansas City,Missouri,Central,TECH-967,Technology,Phones,Motorola Edge+,599.99,1,0.08,100.00
+1037,2023-04-15,2023-04-18,10032,Helen Perez,Home Office,United States,Virginia Beach,Virginia,South,FURN-756,Furniture,Furnishings,Floor Mirror,199.99,1,0.25,30.00
+1038,2023-04-18,2023-04-21,10033,Charles Turner,Corporate,United States,Oakland,California,West,OFF-890,Office Supplies,Binders,Oxford Index Dividers,29.99,12,0.00,12.00
+1039,2023-04-20,2023-04-23,10034,Jessica Phillips,Consumer,United States,Miami,Florida,South,TECH-078,Technology,Computers,Lenovo ThinkPad,1199.99,1,0.06,200.00
+1040,2023-04-22,2023-04-25,10035,Matthew Campbell,Consumer,United States,Raleigh,North Carolina,South,FURN-867,Furniture,Chairs,Accent Chair Velvet,449.99,1,0.18,70.00
+1041,2023-05-01,2023-05-04,10036,Ashley Parker,Home Office,United States,Omaha,Nebraska,Central,OFF-901,Office Supplies,Paper,Glossy Photo Paper,34.99,4,0.10,10.00
+1042,2023-05-03,2023-05-06,10037,Joshua Evans,Consumer,United States,Long Beach,California,West,TECH-189,Technology,Accessories,Mechanical Keyboard,159.99,1,0.15,35.00
+1043,2023-05-05,2023-05-08,10001,John Smith,Consumer,United States,New York,New York,East,FURN-978,Furniture,Tables,Dining Table Set,899.99,1,0.20,130.00
+1044,2023-05-08,2023-05-11,10038,Amanda Edwards,Corporate,United States,Colorado Springs,Colorado,West,OFF-012,Office Supplies,Storage,Desktop Organizer,39.99,6,0.08,15.00
+1045,2023-05-10,2023-05-13,10039,Justin Collins,Consumer,United States,Arlington,Texas,Central,TECH-290,Technology,Phones,Sony Xperia,749.99,1,0.10,130.00
+1046,2023-05-12,2023-05-15,10040,Stephanie Stewart,Home Office,United States,New Orleans,Louisiana,South,FURN-089,Furniture,Furnishings,Wall Art Canvas,79.99,2,0.12,18.00
+1047,2023-05-15,2023-05-18,10041,Ryan Sanchez,Consumer,United States,Wichita,Kansas,Central,OFF-123,Office Supplies,Binders,Pocket Folders,19.99,15,0.05,8.00
+1048,2023-05-18,2023-05-21,10042,Nicole Morris,Corporate,United States,Tampa,Florida,South,TECH-401,Technology,Computers,Microsoft Surface Pro,1099.99,1,0.08,190.00
+1049,2023-05-20,2023-05-23,10043,Brandon Rogers,Consumer,United States,Cleveland,Ohio,Central,FURN-190,Furniture,Chairs,Bar Stool Set,329.99,2,0.15,60.00
+1050,2023-05-22,2023-05-25,10044,Kimberly Reed,Home Office,United States,Tulsa,Oklahoma,Central,OFF-234,Office Supplies,Paper,Label Sheets,29.99,8,0.10,10.00
+1051,2023-06-01,2023-06-04,10045,Jonathan Cook,Consumer,United States,Honolulu,Hawaii,West,TECH-512,Technology,Accessories,Bluetooth Speaker,89.99,2,0.18,20.00
+1052,2023-06-03,2023-06-06,10046,Megan Bell,Consumer,United States,Anaheim,California,West,FURN-301,Furniture,Tables,Side Table Marble,149.99,1,0.20,25.00
+1053,2023-06-05,2023-06-08,10002,Sarah Johnson,Corporate,United States,Los Angeles,California,West,OFF-345,Office Supplies,Storage,Wall Mounted Shelf,69.99,3,0.08,20.00
+1054,2023-06-08,2023-06-11,10047,Nicholas Murphy,Consumer,United States,Santa Ana,California,West,TECH-623,Technology,Computers,iPad Pro 12.9,1299.99,1,0.06,220.00
+1055,2023-06-10,2023-06-13,10048,Heather Bailey,Home Office,United States,St. Louis,Missouri,Central,FURN-412,Furniture,Furnishings,Throw Pillows Set,45.99,4,0.15,12.00
+1056,2023-06-12,2023-06-15,10049,Eric Rivera,Corporate,United States,Pittsburgh,Pennsylvania,East,OFF-456,Office Supplies,Binders,Report Covers,34.99,10,0.00,15.00
+1057,2023-06-15,2023-06-18,10050,Rachel Cooper,Consumer,United States,Corpus Christi,Texas,Central,TECH-734,Technology,Phones,Xiaomi 13 Pro,899.99,1,0.10,160.00
+1058,2023-06-18,2023-06-21,10003,Michael Brown,Home Office,United States,Chicago,Illinois,Central,FURN-523,Furniture,Chairs,Recliner Chair,599.99,1,0.12,100.00
+1059,2023-06-20,2023-06-23,10051,Adam Richardson,Consumer,United States,Lexington,Kentucky,South,OFF-567,Office Supplies,Paper,Presentation Paper,39.99,6,0.10,12.00
+1060,2023-06-22,2023-06-25,10052,Michelle Cox,Home Office,United States,Stockton,California,West,TECH-845,Technology,Accessories,Drawing Tablet,249.99,1,0.15,55.00
+1061,2023-07-01,2023-07-04,10053,Tyler Howard,Consumer,United States,Henderson,Nevada,West,FURN-634,Furniture,Tables,Console Table,279.99,1,0.18,45.00
+1062,2023-07-03,2023-07-06,10054,Angela Ward,Corporate,United States,Saint Paul,Minnesota,Central,OFF-678,Office Supplies,Storage,File Box,24.99,8,0.05,10.00
+1063,2023-07-05,2023-07-08,10055,Aaron Torres,Consumer,United States,Cincinnati,Ohio,Central,TECH-956,Technology,Computers,Chromebook,399.99,2,0.10,70.00
+1064,2023-07-08,2023-07-11,10056,Amy Peterson,Home Office,United States,Newark,New Jersey,East,FURN-745,Furniture,Furnishings,Curtains Blackout,89.99,2,0.20,18.00
+1065,2023-07-10,2023-07-13,10057,Jeremy Gray,Consumer,United States,Plano,Texas,Central,OFF-789,Office Supplies,Binders,Sheet Protectors,19.99,20,0.00,10.00
+1066,2023-07-12,2023-07-15,10004,Emily Davis,Consumer,United States,Houston,Texas,Central,TECH-067,Technology,Phones,Nokia G400,399.99,1,0.08,70.00
+1067,2023-07-15,2023-07-18,10058,Tiffany Ramirez,Corporate,United States,Lincoln,Nebraska,Central,FURN-856,Furniture,Chairs,Folding Chairs Set,199.99,4,0.15,40.00
+1068,2023-07-18,2023-07-21,10059,Scott James,Consumer,United States,Greensboro,North Carolina,South,OFF-890,Office Supplies,Paper,Envelopes Assorted,29.99,10,0.10,10.00
+1069,2023-07-20,2023-07-23,10060,Katherine Watson,Home Office,United States,Buffalo,New York,East,TECH-178,Technology,Accessories,Laptop Stand,49.99,2,0.12,12.00
+1070,2023-07-22,2023-07-25,10061,Sean Brooks,Consumer,United States,Fort Wayne,Indiana,Central,FURN-967,Furniture,Tables,Outdoor Patio Table,449.99,1,0.10,75.00
+1071,2023-08-01,2023-08-04,10062,Danielle Kelly,Consumer,United States,Jersey City,New Jersey,East,OFF-901,Office Supplies,Storage,Desk Drawer,59.99,3,0.08,18.00
+1072,2023-08-03,2023-08-06,10063,Kyle Sanders,Corporate,United States,Chula Vista,California,West,TECH-289,Technology,Computers,Gaming PC Custom,2199.99,1,0.08,380.00
+1073,2023-08-05,2023-08-08,10001,John Smith,Consumer,United States,New York,New York,East,FURN-078,Furniture,Furnishings,Ottoman Storage,129.99,1,0.15,22.00
+1074,2023-08-08,2023-08-11,10064,Brittany Price,Home Office,United States,Fort Worth,Texas,Central,OFF-012,Office Supplies,Binders,Binder Clips,14.99,15,0.05,6.00
+1075,2023-08-10,2023-08-13,10065,Austin Bennett,Consumer,United States,Durham,North Carolina,South,TECH-390,Technology,Phones,Nothing Phone 2,599.99,1,0.10,105.00
+1076,2023-08-12,2023-08-15,10066,Courtney Wood,Consumer,United States,Chandler,Arizona,West,FURN-189,Furniture,Chairs,Swivel Chair,279.99,1,0.18,45.00
+1077,2023-08-15,2023-08-18,10067,Zachary Barnes,Corporate,United States,Scottsdale,Arizona,West,OFF-123,Office Supplies,Paper,Sticky Notes Value Pack,24.99,12,0.00,12.00
+1078,2023-08-18,2023-08-21,10068,Amber Ross,Consumer,United States,Laredo,Texas,Central,TECH-501,Technology,Accessories,Smart Watch,299.99,1,0.12,65.00
+1079,2023-08-20,2023-08-23,10069,Travis Henderson,Home Office,United States,Madison,Wisconsin,Central,FURN-290,Furniture,Tables,Craft Table,349.99,1,0.15,60.00
+1080,2023-08-22,2023-08-25,10070,Crystal Coleman,Consumer,United States,Lubbock,Texas,Central,OFF-234,Office Supplies,Storage,Paper Tray,19.99,6,0.10,6.00
+1081,2023-09-01,2023-09-04,10071,Jerry Jenkins,Consumer,United States,Winston-Salem,North Carolina,South,TECH-612,Technology,Computers,Mac Mini M2,799.99,1,0.06,140.00
+1082,2023-09-03,2023-09-06,10072,Diana Perry,Corporate,United States,Garland,Texas,Central,FURN-401,Furniture,Furnishings,Desk Mat,29.99,10,0.08,12.00
+1083,2023-09-05,2023-09-08,10002,Sarah Johnson,Corporate,United States,Los Angeles,California,West,OFF-345,Office Supplies,Binders,Presentation Binders,44.99,8,0.05,18.00
+1084,2023-09-08,2023-09-11,10073,Keith Powell,Consumer,United States,Glendale,Arizona,West,TECH-723,Technology,Phones,Asus ROG Phone,999.99,1,0.10,175.00
+1085,2023-09-10,2023-09-13,10074,Sara Long,Home Office,United States,Reno,Nevada,West,FURN-512,Furniture,Chairs,Kids Study Chair,149.99,2,0.15,28.00
+1086,2023-09-12,2023-09-15,10075,Gerald Patterson,Consumer,United States,Tacoma,Washington,West,OFF-456,Office Supplies,Paper,Printer Paper Ream,49.99,5,0.10,15.00
+1087,2023-09-15,2023-09-18,10076,Marie Hughes,Corporate,United States,Irving,Texas,Central,TECH-834,Technology,Accessories,External Hard Drive 4TB,179.99,1,0.12,40.00
+1088,2023-09-18,2023-09-21,10077,Larry Flores,Consumer,United States,Chesapeake,Virginia,South,FURN-623,Furniture,Tables,TV Stand Modern,299.99,1,0.18,50.00
+1089,2023-09-20,2023-09-23,10078,Julia Washington,Home Office,United States,Fremont,California,West,OFF-567,Office Supplies,Storage,Hanging File Folders,34.99,8,0.08,14.00
+1090,2023-09-22,2023-09-25,10079,Dennis Butler,Consumer,United States,Norfolk,Virginia,South,TECH-945,Technology,Computers,HP Envy Laptop,1099.99,1,0.08,190.00
+1091,2023-10-01,2023-10-04,10080,Kathryn Simmons,Consumer,United States,Spokane,Washington,West,FURN-734,Furniture,Furnishings,Bean Bag Chair,99.99,2,0.20,18.00
+1092,2023-10-03,2023-10-06,10081,Peter Foster,Corporate,United States,Arlington,Virginia,South,OFF-678,Office Supplies,Binders,3-Ring Binders,29.99,15,0.00,15.00
+1093,2023-10-05,2023-10-08,10003,Michael Brown,Home Office,United States,Chicago,Illinois,Central,TECH-056,Technology,Phones,Realme GT 3,549.99,1,0.10,95.00
+1094,2023-10-08,2023-10-11,10082,Sharon Gonzales,Consumer,United States,Richmond,Virginia,South,FURN-845,Furniture,Chairs,Wicker Patio Chair,229.99,2,0.15,40.00
+1095,2023-10-10,2023-10-13,10083,Gregory Bryant,Home Office,United States,Baton Rouge,Louisiana,South,OFF-789,Office Supplies,Paper,Construction Paper,19.99,12,0.10,8.00
+1096,2023-10-12,2023-10-15,10084,Ruth Alexander,Consumer,United States,Hialeah,Florida,South,TECH-167,Technology,Accessories,Ring Light LED,69.99,1,0.12,16.00
+1097,2023-10-15,2023-10-18,10085,Frank Russell,Corporate,United States,Gilbert,Arizona,West,FURN-956,Furniture,Tables,Folding Table,119.99,3,0.10,30.00
+1098,2023-10-18,2023-10-21,10086,Pamela Griffin,Consumer,United States,Chesapeake,Virginia,South,OFF-890,Office Supplies,Storage,Supply Caddy,24.99,6,0.08,10.00
+1099,2023-10-20,2023-10-23,10087,Albert Diaz,Consumer,United States,Irving,Texas,Central,TECH-278,Technology,Computers,Steam Deck,499.99,1,0.08,85.00
+1100,2023-10-22,2023-10-25,10088,Teresa Hayes,Home Office,United States,Garland,Texas,Central,FURN-067,Furniture,Furnishings,Wall Clock,39.99,3,0.15,10.00
+1101,2023-11-01,2023-11-04,10089,Randy Myers,Consumer,United States,Glendale,California,West,OFF-901,Office Supplies,Binders,Document Wallet,29.99,10,0.05,12.00
+1102,2023-11-03,2023-11-06,10090,Evelyn Ford,Corporate,United States,Huntington Beach,California,West,TECH-389,Technology,Phones,Oppo Find X6,849.99,1,0.10,148.00
+1103,2023-11-05,2023-11-08,10004,Emily Davis,Consumer,United States,Houston,Texas,Central,FURN-178,Furniture,Chairs,Office Chair Budget,159.99,2,0.18,28.00
+1104,2023-11-08,2023-11-11,10091,Russell Hamilton,Home Office,United States,Akron,Ohio,Central,OFF-012,Office Supplies,Paper,Graph Paper Pad,14.99,8,0.10,5.00
+1105,2023-11-10,2023-11-13,10092,Frances Graham,Consumer,United States,Des Moines,Iowa,Central,TECH-490,Technology,Accessories,Noise Canceling Headphones,249.99,1,0.12,55.00
+1106,2023-11-12,2023-11-15,10093,Arthur Sullivan,Consumer,United States,Grand Rapids,Michigan,Central,FURN-289,Furniture,Tables,Kitchen Island Cart,399.99,1,0.15,65.00
+1107,2023-11-15,2023-11-18,10094,Cheryl Wallace,Corporate,United States,Yonkers,New York,East,OFF-123,Office Supplies,Storage,Locker Organizer,49.99,5,0.08,18.00
+1108,2023-11-18,2023-11-21,10001,John Smith,Consumer,United States,New York,New York,East,TECH-601,Technology,Computers,Framework Laptop,1299.99,1,0.06,220.00
+1109,2023-11-20,2023-11-23,10095,Carl Woods,Consumer,United States,Overland Park,Kansas,Central,FURN-390,Furniture,Furnishings,Picture Frames Set,59.99,2,0.20,12.00
+1110,2023-11-22,2023-11-25,10096,Judy Kennedy,Home Office,United States,Knoxville,Tennessee,South,OFF-234,Office Supplies,Binders,Portfolio Case,39.99,6,0.10,15.00
+1111,2023-12-01,2023-12-04,10097,Ralph Wells,Consumer,United States,Brownsville,Texas,Central,TECH-712,Technology,Phones,Vivo X90 Pro,949.99,1,0.10,165.00
+1112,2023-12-03,2023-12-06,10098,Gloria Castillo,Corporate,United States,Fort Lauderdale,Florida,South,FURN-501,Furniture,Chairs,Dining Chairs Set,549.99,1,0.15,90.00
+1113,2023-12-05,2023-12-08,10002,Sarah Johnson,Corporate,United States,Los Angeles,California,West,OFF-345,Office Supplies,Paper,Cardstock White,29.99,10,0.05,12.00
+1114,2023-12-08,2023-12-11,10099,Willie Jimenez,Consumer,United States,Port St. Lucie,Florida,South,TECH-823,Technology,Accessories,Action Camera 4K,349.99,1,0.12,75.00
+1115,2023-12-10,2023-12-13,10100,Joyce Marshall,Home Office,United States,Modesto,California,West,FURN-612,Furniture,Tables,Sofa Table,249.99,1,0.18,40.00
+1116,2023-12-12,2023-12-15,10003,Michael Brown,Home Office,United States,Chicago,Illinois,Central,OFF-456,Office Supplies,Storage,Bookends Metal,34.99,4,0.08,14.00
+1117,2023-12-15,2023-12-18,10101,Theresa Boyd,Consumer,United States,Fayetteville,North Carolina,South,TECH-934,Technology,Computers,Raspberry Pi Kit,129.99,2,0.10,28.00
+1118,2023-12-18,2023-12-21,10102,Wayne Mason,Corporate,United States,Shreveport,Louisiana,South,FURN-723,Furniture,Furnishings,Floating Shelves,79.99,3,0.15,18.00
+1119,2023-12-20,2023-12-23,10103,Virginia Dixon,Consumer,United States,McKinney,Texas,Central,OFF-567,Office Supplies,Binders,Expanding File,24.99,8,0.05,10.00
+1120,2023-12-22,2023-12-26,10104,Lawrence Ferguson,Consumer,United States,Fontana,California,West,TECH-045,Technology,Phones,BlackBerry Key3,449.99,1,0.08,78.00
