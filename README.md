@@ -131,7 +131,7 @@ The project includes 20 comprehensive SQL queries covering:
 
 ## Tools Used
 
-- **Database**: MySQL / PostgreSQL
+- **Database**: MySQL 
 - **SQL Techniques**: 
   - Aggregate Functions
   - Window Functions
@@ -141,69 +141,6 @@ The project includes 20 comprehensive SQL queries covering:
   - Date Functions
   - CASE Statements
 
-## How to Use This Project
-
-### Step 1: Clone the Repository
-```bash
-git clone https://github.com/yourusername/ecommerce-sales-analysis-sql.git
-cd ecommerce-sales-analysis-sql
-```
-
-### Step 2: Set Up the Database
-1. Open your SQL client (MySQL Workbench, pgAdmin, DBeaver, etc.)
-2. Run the database setup script to create the database and table
-3. Import the CSV file or run INSERT statements
-
-### Step 3: Import the Dataset
-**Option A - Using CSV Import:**
-```sql
-LOAD DATA INFILE 'path/to/ecommerce_sales.csv'
-INTO TABLE ecommerce_sales
-FIELDS TERMINATED BY ','
-ENCLOSED BY '"'
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
-```
-
-**Option B - Manual Import:**
-- Use your SQL client's import wizard
-- Select the `ecommerce_sales.csv` file
-- Map columns appropriately
-
-### Step 4: Run the Analysis Queries
-- Open the `ecommerce_analysis.sql` file
-- Execute queries individually or in sections
-- Analyze the results
-
-### Step 5: Explore and Modify
-- Modify queries to explore different aspects
-- Create your own business questions
-- Build custom reports
-
-## Prerequisites
-
-- Basic understanding of SQL
-- SQL database management system (MySQL, PostgreSQL, SQL Server, etc.)
-- SQL client software
-
-## Project Structure
-```
-ecommerce-sales-analysis-sql/
-│
-├── data/
-│   └── ecommerce_sales.csv
-│
-├── sql/
-│   ├── 01_database_setup.sql
-│   ├── 02_data_exploration.sql
-│   └── 03_analysis_queries.sql
-│
-├── README.md
-│
-└── results/
-    └── analysis_findings.md
-```
-
 ## Future Enhancements
 
 - Add data visualization using Python/R
@@ -212,33 +149,7 @@ ecommerce-sales-analysis-sql/
 - Add customer churn analysis
 - Build automated reporting scripts
 
-## Learning Outcomes
 
-After completing this project, you will be able to:
-- Set up and manage a relational database
-- Perform comprehensive data cleaning
-- Write complex SQL queries
-- Analyze business metrics
-- Extract actionable insights from data
-- Present findings effectively
-
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Report bugs
-- Suggest new analysis queries
-- Improve documentation
-- Add new features
-
-## License
-
-This project is open source and available under the MIT License.
-
-## Acknowledgments
-
-- Inspired by real-world e-commerce data analysis scenarios
-- Dataset created for educational purposes
-- Thanks to the SQL and data analytics community
 
 ---
 
