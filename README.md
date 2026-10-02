@@ -3,7 +3,6 @@
 ## Project Overview
 
 **Project Title**: E-commerce Sales Analysis  
-**Level**: Beginner to Intermediate  
 **Database**: `ecommerce_db`
 
 This project demonstrates SQL skills and techniques commonly used by data analysts to explore, clean, and analyze e-commerce sales data. The project involves setting up an e-commerce database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries.
